@@ -10,6 +10,7 @@ The following is required for Simple GPWS Altitude Callouts to work:
 ## Installation
 Installation is simple:
 * Copy SimpleGPWSAltitudeCallouts.lua to Resources/plugins/FlyWithLua/Scripts -folder.
+* Optional: Edit callout settings, see Customization below.
 * Restart X-plane or reload FlyWithLua.
 
 ## Customization
