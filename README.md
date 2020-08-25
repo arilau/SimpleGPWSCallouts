@@ -4,7 +4,7 @@ FlyWithLua script for GPWS altitude callouts for X-Plane 11.
 ## Requirements
 The following is required for Simple GPWS Altitude Callouts to work:
 * FlyWithLuaNG plugin has to be installed and working.
-* X-Plane resources must contain default set of callout sound files, these exist by default
+* X-Plane resources must contain default set of callout sound files (these exist by default)
   * Check that Resources/sounds/alert folder contains callout files (1000ft.wav, 500ft.wav etc.)
 
 ## Installation
