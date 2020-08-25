@@ -17,6 +17,6 @@ Edit script file with any text editor to change settings. Following settings can
 * Aircraft, where GPWS callouts are enabled
 * Default altitudes for callouts
 * Aircraft specific altitudes for callouts which override defaults
-* Volume gain for
+* GPWS callout sound volume
 
 Please read the comments in script file for more specific customization instructions.
