@@ -13,7 +13,7 @@ Installation is simple:
 * Restart X-plane or reload FlyWithLua.
 
 ## Customization
-Edit script file with any text editor to change settings. Following settings can be modified:
+GPWS callouts are enabled only for Cessna 172 by default. Script file can be edited with any text editor to change callout settings. Following settings can be modified:
 * Aircraft, where GPWS callouts are enabled
 * Default altitudes for callouts
 * Aircraft specific altitudes for callouts which override defaults
