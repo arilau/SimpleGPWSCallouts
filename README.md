@@ -12,7 +12,7 @@ Installation is simple:
 * Copy SimpleGPWSAltitudeCallouts.lua to Resources/plugins/FlyWithLua/Scripts -folder.
 * Restart X-plane or reload FlyWithLua.
 
-# Documentation
+## Customization
 Edit script file with any text editor to change settings. Following settings can be modified:
 * Aircraft, where GPWS callouts are enabled
 * Default altitudes for callouts
